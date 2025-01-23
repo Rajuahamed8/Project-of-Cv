@@ -1,2 +1,2 @@
 # Project-of-Cv
-https://rajuahamed8.github.io/Project-of-Cv/
+https://github.com/Rajuahamed8/Project-of-Cv-Raju.git
